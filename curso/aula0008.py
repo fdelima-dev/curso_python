@@ -1,7 +1,7 @@
 nome = 'Felipe'
 sobrenome = 'de Lima Lara'
 idade = 33
-ano_nasc = 2026 - idade
+ano_nasc = 1992
 maior_de_idade = idade >= 18
 altura_metros = 1.75
 
